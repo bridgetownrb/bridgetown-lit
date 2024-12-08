@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Convert build script to ESM
+
 ## [2.1.0.beta2] - 2023-06-18
 
 - Bug fixes based on QA
